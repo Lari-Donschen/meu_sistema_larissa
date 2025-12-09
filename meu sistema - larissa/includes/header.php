@@ -1,3 +1,7 @@
+<?php
+require_once __DIR__ . '/../auth/functions.php';
+requer_autenticacao();
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
